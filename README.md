@@ -1,4 +1,6 @@
-## Yo! 👋
+### Yo! 👋
+
+Stuff contained herewith are pretty random and might be inconsistent as I try to be consistent.
 
 <!--
 **knnku/knnku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
