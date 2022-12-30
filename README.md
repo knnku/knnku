@@ -1,10 +1,12 @@
-### Yo! 👋
+# Yo! 👋
 
-Stuff contained herewith are pretty random and might be inconsistent as I try to be consistent.
+ Stuff contained herewith are pretty random and might be inconsistent as I try to be consistent.
 
-After almost a decade since dropping out to move to another country, I have dearly missed my love-hate relationship with code. I have now gathered my wits and decided to focus on relearning all I that I have unlearned, starting over because I desperately need a change.
+After almost a decade since dropping out of university to immigrate, I have dearly missed my love-hate relationship with the dabbling and sophisticated heebie jeebies of code. I have now gathered my wits and decided to focus on relearning all I that I have unlearned and starting over because I desperately need a change.
 
-Ruby, Rails, Front-end & UX.
+
+
+#### *Ruby, Rails, Front-end & UX.*
 
 <!--
 **knnku/knnku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
