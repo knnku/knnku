@@ -6,7 +6,9 @@
 After almost a decade since dropping out of university to immigrate, I have dearly missed my love-hate relationship with the dabbling and sophisticated heebie jeebies of code. I have now gathered my wits and decided to focus on relearning all I things I have unlearned.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knnku&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knnku&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![CW Stats](https://www.codewars.com/users/knnku/badges/small)
 
 <!--
