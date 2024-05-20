@@ -14,7 +14,7 @@ When I am not out and about, I am usually dabbling in code, reading docs or just
 - Always eager to pick up new skills and improve my existing ones. With the tools we have at this day and age, you can pick up pretty much anything quickly!
 - 🤝 Open to Collaboration: Whether it's a simple project or a big idea, I'm open to working together and learning from others.
 
-Stack:
+<b>Stack:</b>
 <i class="devicon-express-original"></i>
 <i class="devicon-react-original"></i>
 <i class="devicon-postgresql-plain"></i>
@@ -28,6 +28,7 @@ Stack:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knnku&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![CW Stats](https://www.codewars.com/users/knnku/badges/small)
 
 <!-- ![](https://komarev.com/ghpvc/?username=knnku) -->
 
