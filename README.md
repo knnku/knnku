@@ -1,12 +1,43 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 # hello there. 👋
 
+I am Kenniku.
 
- Stuff contained herewith are pretty random and might be inconsistent as I try to be consistent.
-
-After almost a decade since dropping out of university to immigrate, I have dearly missed my love-hate relationship with the dabbling and sophisticated heebie jeebies of code. I have now gathered my wits and decided to focus on relearning all I things I have unlearned.
+When I am not out and about, I am usually dabbling in code, reading docs or just being a complete nerd!
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knnku&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### About Me:
+
+- Currently focusing on mastering JavaScript and Rails. 
+- With a background in graphic design, I bring a unique perspective to coding and development.
+- Always eager to pick up new skills and improve my existing ones. With the tools we have at this day and age, you can pick up pretty much anything quickly!
+- 🤝 Open to Collaboration: Whether it's a simple project or a big idea, I'm open to working together and learning from others.
+
+Stack:
+<i class="devicon-express-original"></i>
+<i class="devicon-react-original"></i>
+<i class="devicon-postgresql-plain"></i>
+<i class="devicon-nodejs-plain"></i>
+
+
+
+<details>
+<summary>Some stats.</summary></br>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knnku&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- ![](https://komarev.com/ghpvc/?username=knnku) -->
+
+</details></br>
+
+I'm always looking forward to connecting with fellow developers and designers so feel free to reach out or check my projects.
+
+Thanks for stopping by.
+
+
 
 <!--
 **knnku/knnku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
