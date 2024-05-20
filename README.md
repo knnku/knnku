@@ -40,6 +40,9 @@ Thanks for stopping by.
 
 
 
+
+![CW Stats](https://www.codewars.com/users/knnku/badges/small)
+
 <!--
 **knnku/knnku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
