@@ -36,12 +36,8 @@ When I am not out and about, I am usually dabbling in code, reading docs or just
 
 I'm always looking forward to connecting with fellow developers and designers so feel free to reach out or check my projects.
 
-Thanks for stopping by.
+Thanks for stopping by!
 
-
-
-
-![CW Stats](https://www.codewars.com/users/knnku/badges/small)
 
 <!--
 **knnku/knnku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
